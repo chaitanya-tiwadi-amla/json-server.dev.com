@@ -1,1 +1,107 @@
-db.json
+{
+	"productDetails": {
+		"TotalReviews": 0,
+		"Rating": 0.0,
+		"CategoryId": 3121,
+		"CategoryName": "Hardware Defaults",
+		"SKU": "z-2623001",
+		"SEODescription": "Bosch 4 in. x 24 in. 120-Grit Red Sanding Belt (3-Pack)",
+		"SEOKeywords": "Bosch 4 in. x 24 in. 120-Grit Red Sanding Belt (3-Pack)",
+		"SEOTitle": "Bosch 4 in. x 24 in. 120-Grit Red Sanding Belt (3-Pack)",
+		"SEOUrl": "Bosch-4-in-x-24-in-120-Grit-Red-Sanding-Belt-3",
+		"ProductPrice": 40.0,
+		"ImageSmallPath": "https://api-b2b-znode.amla.io/Data/Media/Catalog/250/9b097b98-1e61-473e-b74c-aefe75871727Bosch 4 in. x 24 in. 120-Grit Red Sanding Belt (3-Pack).jpg",
+		"LongDescription": "These Smart Technology electric tank less water heater are configured for climates where incoming water temperature is 67 degree Fahrenheit and above. These models are well suited for heating up to 2 GPM, which is the equivalent of one shower head (with a 1.5 GPM flow) and one sink with a low inlet water temperature of 67 degree Fahrenheit.",
+	},
+	"slider": [{
+			"bannerId": "0",
+			"bannerImage": "https://api-training.znodestore.com/Data/Media/280da1ac-1711-431e-81e5-e3146839d2d4feature-woodworking.jpg",
+			"text": "Have Jobsite Confidence",
+			"subText": "with Cordless Tools.",
+			"url": "#",
+			"buttonText": "View Our Power Tools",
+			"textAlign": "Left"
+		},
+		{
+			"bannerId": "1",
+			"bannerImage": "https://api-training.znodestore.com/Data/Media/275ef088-ec5e-4fe7-857b-34a62a95903efeature-powertools.jpg",
+			"text": "The Wait Is Over",
+			"subText": "For Cordless Woodworking.",
+			"url": "#",
+			"buttonText": "Learn About Dewalt's New Line",
+			"textAlign": "Right"
+		}
+	],
+	"cartItems": [{
+			"productId": 1,
+			"productImage": "https://api-demo.znodestore.com/Data/Media/Catalog/150/eed8f706-feeb-4b15-bde0-023bb86bd192BlackDecker Circle Saw.png",
+			"productName": "Black + Decker 13 Amp 7-1/4 in Circular Saw with Laser Beam Tool",
+			"productPrice": 355.99,
+			"productQuantity": 1
+		},
+		{
+			"productId": 2,
+			"productImage": "https://api-demo.znodestore.com/Data/Media/Catalog/150/1f35f55c-15c2-4bae-a7ee-5992171f4c56GE 6 Extension Cord.jpg",
+			"productName": "Ecobee4 Smart Thermostat",
+			"productPrice": 8,
+			"productQuantity": 1
+		},
+		{
+			"productId": 3,
+			"productImage": "https://api-demo.znodestore.com/Data/Media/Catalog/150/a21254d8-d73c-4b91-8ecf-62326468d4d9Ecobee Main.jpg",
+			"productName": "GE 6' Extension Cord",
+			"productPrice": 199,
+			"productQuantity": 1
+		}
+	],
+	"footer": {
+		"helpLinks": [{
+				"linkName": "About Us",
+				"linkUrl": "#"
+			},
+			{
+				"linkName": "Privacy Policy",
+				"linkUrl": "#"
+			}
+		],
+		"storeLinks": [{
+				"linkName": "Check Order Status",
+				"linkUrl": "#"
+			},
+			{
+				"linkName": "Circular Saws",
+				"linkUrl": "#"
+			}
+		],
+		"socialMediaLinks": [{
+				"socialMediaImage": "https://api-b2b-znode.amla.io/Data/Media/Thumbnail/7b6d5d68-f379-4170-b05f-10c9f365c2944.png",
+				"socialMediaLink": "https://www.youtube.com"
+			},
+			{
+				"socialMediaImage": "https://api-b2b-znode.amla.io/Data/Media/Thumbnail/71267ff9-5cde-4239-8497-603c1aff50151.png",
+				"socialMediaLink": "https://www.facebook.com/"
+			},
+			{
+				"socialMediaImage": "https://api-b2b-znode.amla.io/Data/Media/Thumbnail/3cdfdf1c-8c85-4bfc-b29c-b3e8f6877a575.png",
+				"socialMediaLink": "https://in.pinterest.com/"
+			},
+			{
+				"socialMediaImage": "https://api-b2b-znode.amla.io/Data/Media/Thumbnail/fdc16888-4b3a-4edd-8eba-5509ae67c7623.png",
+				"socialMediaLink": "https://twitter.com/login"
+			}
+		]
+	},
+	"navLinks": [{
+			"linkName": "Cordless Woodworking",
+			"linkUrl": "#"
+		},
+		{
+			"linkName": "Sales & Specials",
+			"linkUrl": "#"
+		},
+		{
+			"linkName": "Shop Brands",
+			"linkUrl": "#"
+		}
+	]
+}
