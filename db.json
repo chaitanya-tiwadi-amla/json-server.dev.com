@@ -18,28 +18,6 @@
 			"textAlign": "Right"
 		}
 	],
-	"cartItems": [{
-			"productId": 1,
-			"productImage": "https://api-demo.znodestore.com/Data/Media/Catalog/150/eed8f706-feeb-4b15-bde0-023bb86bd192BlackDecker Circle Saw.png",
-			"productName": "Black + Decker 13 Amp 7-1/4 in Circular Saw with Laser Beam Tool",
-			"productPrice": 355.99,
-			"productQuantity": 1
-		},
-		{
-			"productId": 2,
-			"productImage": "https://api-demo.znodestore.com/Data/Media/Catalog/150/1f35f55c-15c2-4bae-a7ee-5992171f4c56GE 6 Extension Cord.jpg",
-			"productName": "Ecobee4 Smart Thermostat",
-			"productPrice": 8,
-			"productQuantity": 1
-		},
-		{
-			"productId": 3,
-			"productImage": "https://api-demo.znodestore.com/Data/Media/Catalog/150/a21254d8-d73c-4b91-8ecf-62326468d4d9Ecobee Main.jpg",
-			"productName": "GE 6' Extension Cord",
-			"productPrice": 199,
-			"productQuantity": 1
-		}
-	],
 	"footer": {
 		"helpLinks": [{
 				"linkName": "About Us",
